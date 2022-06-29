@@ -1,0 +1,6 @@
+name: opensim-control-py38
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib=3.5.1
